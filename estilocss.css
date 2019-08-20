@@ -1,0 +1,34 @@
+
+
+	#p1{
+		font-family: "Verdana";
+		font-size: 20px; 
+		text-align: justify;	
+		color: #FFCBDB;
+	}
+
+	#p2{
+		font-family: "Courier New";
+		font-size: 20px; 
+		text-align: justify;	
+		color: #A89FFF;
+	}
+
+
+	#p3{
+		font-family: "Arial";
+		font-size: 20px; 
+		text-align: justify;	
+		color:  #39FF14;
+	}
+
+	h1{
+		color: #00FFF7;
+	}
+
+	body{
+		background-color: #000
+	}
+
+
+	

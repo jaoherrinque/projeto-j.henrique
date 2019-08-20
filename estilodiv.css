@@ -1,0 +1,79 @@
+<style type="text/css">
+
+	
+header{
+		font-size: px;
+		text-align: center;
+
+
+	}
+
+
+
+	header{
+		font-size: 40px;
+		text-align: center;
+		color: #FFF;
+
+
+	}
+
+	
+	p {
+		font-family: "Verdana, Arial, Courier New";
+		font-size: 20px; 
+		text-align: justify;	
+		color: #FFCBDB;
+	}
+
+	h1{
+		
+		color: #A89FFF;
+		font-size: 36px;
+	}
+
+	h2{
+		color: #B19CD9;
+	}
+
+	ul{
+		font-family: "Verdana, Arial";
+		font-style: italic;
+		font-size: 18px;
+		color: #6A5ACD;
+	}
+
+	
+
+	#logo{
+		margin: 10px 10px auto;
+		width: 200px;
+		height: 61px;
+	}
+
+	#principal{
+			margin: 10px 10px auto;
+			width: 100%;
+			max-width: 960px;
+			position: relative;
+		}
+
+	body{
+		background: #000;
+
+	}
+
+	footer{
+		color: #fff;
+		text-align: center;
+	}
+
+	#s01{
+		width: 940px;
+		position: relative;
+		background-color:  #808080	;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	</style>

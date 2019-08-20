@@ -1,0 +1,106 @@
+main{
+	width: 960px;
+	height: auto;
+	background-color: black;
+	margin: 10px auto;
+
+}
+
+header{
+	height: 150px;
+	background-color:#39FF14;
+	padding: 5px;
+	border-color: #9184b7;
+	border-width: 1px;
+	border-style: groove;  
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+nav{
+	height: 100px;
+	background-color: #FFCBDB;
+	padding: 5px;
+	border-color: #FF00F7;
+	border-width: 1px;
+	border-style: groove;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#noticias{
+	height: auto;
+	background-color:#add8e6;
+	padding: 10px;
+	border-color: #FF00F7;
+	border-width: 1px;
+	border-style: groove;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: table;
+}
+
+footer{
+	height: 120px;
+	border-color: #FF00F7;
+	border-width: 1px;
+	border-style: double;
+	background-color:#A89FFF;
+	padding: 5px; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+body{
+	background-color: black;
+}
+
+#texto01{
+	width: 280px;
+	padding: 5px;
+	background-color:#8e81b7;
+	margin-left: 10px;
+	margin-right: 10px;
+	position: relative;
+	float: left;
+}
+
+#texto02{
+	width: 280px;
+	padding: 5px;
+	background-color:#8784b6;
+	margin-left:10px;
+	margin-right: 10px;
+	float: left;
+
+
+}
+
+#texto03{
+	width: 280px;
+	padding: 5px;
+	background-color:#8481ae;
+	margin-left: 10px;
+	margin-right: 10px;
+	float:left; 
+}
+
+#texto04{
+
+	width: 920px;
+	padding: 5px;
+	background-color:#9584aa;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+#escola{
+	width: 250px;
+	height: 150px; 
+	float: right;
+}
+
+#paragrafo{
+	position: relative;
+}
