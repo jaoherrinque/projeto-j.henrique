@@ -1,0 +1,39 @@
+body{
+	background-image: url("degrade.jpg");
+	color: white;
+	border-bottom-width: 1000px;
+	
+}
+
+h1{
+	color: purple;
+	margin: auto;
+}
+
+#img{
+	margin-left: 550px;
+	
+}
+ul{
+	color: white;
+	border-style: double;
+	border-width: 3px;
+	max-width: 150px;
+}
+
+footer{
+	height: 60px;
+	border-color: black;
+	border-width: 3px;
+	border-style: double;
+	background-color: white;
+	padding: 5px; 
+	margin-top: 290px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: black;
+}
+
+#ig{
+	color: gray;
+}
